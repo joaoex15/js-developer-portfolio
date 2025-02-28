@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://joaoex15.github.io/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://joaoex15.github.io/js-developer-portfolio/data/imgs/angular.png"
       },
       {
         "name": "React",
-        "logo": "https://joaoex15.github.io/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://joaoex15.github.io/js-developer-portfolio/data/imgs/react.png"
       },
       {
         "name": "React Native",
-        "logo": "https://joaoex15.github.io/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://joaoex15.github.io/js-developer-portfolio/data/imgs/react.png"
       },
       {
         "name": "Node.js",
-        "logo": "https://joaoex15.github.io/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://joaoex15.github.io/js-developer-portfolio/data/imgs/nodejs.png"
       },
       {
         "name": "SQL",
-        "logo": "https://joaoex15.github.io/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://joaoex15.github.io/js-developer-portfolio/data/imgs/postgresql.png"
       },
       {
         "name": "NoSQL",
-        "logo": "https://joaoex15.github.io/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://joaoex15.github.io/js-developer-portfolio/data/imgs/mongodb.png"
       },
       {
         "name": "Figma",
@@ -37,7 +37,7 @@
       },
       {
         "name": "HTML, CSS, JavaScript",
-        "logo": "https://joaoex15.github.io/js-developer-portfolio/main/data/imgs/javascript.png"
+        "logo": "https://joaoex15.github.io/js-developer-portfolio/data/imgs/javascript.png"
       }
     ],
     "softSkills": [
